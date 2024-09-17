@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/RaihnLRmdn/rpwebfilmtest/static/css/main.b449cc75.css",
+    "main.js": "/RaihnLRmdn/rpwebfilmtest/static/js/main.67003d35.js",
+    "static/js/453.7affd069.chunk.js": "/RaihnLRmdn/rpwebfilmtest/static/js/453.7affd069.chunk.js",
+    "static/media/main.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/main.530830905e75d6a78476.jpg",
+    "static/media/thriil.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/thriil.cb7d2bca2f5370f8d7f9.jpg",
+    "static/media/movie.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/movie.3f99d0dd1535f11a9404.jpg",
+    "static/media/HellBoy.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/HellBoy.7790d4c39f98a888f04b.jpg",
+    "static/media/robot.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/robot.4b54fc7a5790fabbdb7c.jpg",
+    "static/media/garden.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/garden.72e3b97bdce91bf58eb6.jpg",
+    "static/media/Kang Mak.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/Kang Mak.6d6dbcb3b0771e5b418f.jpg",
+    "static/media/still.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/still.9e35c5e09b8cda0ceda4.jpg",
+    "static/media/Pulau hantu.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/Pulau hantu.b25fe76064ea49ce88af.jpg",
+    "static/media/thagut.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/thagut.e85ea26f91f925845012.jpg",
+    "static/media/car.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/car.cd68e9967fc6964e45e6.jpg",
+    "static/media/seni.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/seni.1bf94981164fded2adae.jpg",
+    "static/media/Kaka Bos.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/Kaka Bos.700607ce37a54365af72.jpg",
+    "static/media/the.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/the.a6bf5984c1281c47a689.jpg",
+    "static/media/ibu.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/ibu.85dc79e24bc1492cee25.jpg",
+    "static/media/joker.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/joker.66b26594f69d0dc9f730.jpg",
+    "static/media/Malam Keramat.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/Malam Keramat.1de538103f46d5026800.jpg",
+    "static/media/lembayung.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/lembayung.593f29b0fc69138699e9.jpg",
+    "static/media/petak.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/petak.c402e1f8cc85fd813d69.jpg",
+    "static/media/perjanjian.jpg": "/RaihnLRmdn/rpwebfilmtest/static/media/perjanjian.87202faf2dd3171e4138.jpg",
+    "index.html": "/RaihnLRmdn/rpwebfilmtest/index.html",
+    "main.b449cc75.css.map": "/RaihnLRmdn/rpwebfilmtest/static/css/main.b449cc75.css.map",
+    "main.67003d35.js.map": "/RaihnLRmdn/rpwebfilmtest/static/js/main.67003d35.js.map",
+    "453.7affd069.chunk.js.map": "/RaihnLRmdn/rpwebfilmtest/static/js/453.7affd069.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b449cc75.css",
+    "static/js/main.67003d35.js"
+  ]
+}
