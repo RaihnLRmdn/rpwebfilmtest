@@ -1,0 +1,102 @@
+.myBG {
+  height: 100vh;
+  background: url("../assets/images/bg/main.jpg");
+  background-size: cover;
+}
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 4px;
+}
+
+.trending {
+  height: auto;
+  background: url("../assets/images/bg/movie.jpg");
+  background-size: cover;
+}
+
+.horror {
+  height: auto;
+  background: url("../assets/images/bg/thriil.jpg");
+  background-size: cover;
+}
+
+.Upcoming {
+  height: auto;
+  background: url("../assets/images/bg/car.jpg");
+  background-size: cover;
+}
+
+.movieWrapper {
+}
+
+.movieImage {
+  height: auto;
+  background-color: black;
+  margin: 5px;
+  padding: 5px;
+}
+
+.images {
+  height: 500px;
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 2.5rem;
+    letter-spacing: 3px;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+  }
+
+  .intro {
+    height: 250px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+  }
+}
+
+@media (max-width: 480px) {
+  .title {
+    font-size: 2rem;
+    letter-spacing: 2px;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+  }
+
+  .intro {
+    height: 200px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+  }
+}
+
+@media (max-width: 320px) {
+  .title {
+    font-size: 1.8rem;
+    letter-spacing: 1.5px;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+  }
+
+  .intro {
+    height: 180px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+  }
+}
