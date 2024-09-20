@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# rpwebfilmtest
+
 This website can explain what films are trending, hype and upcoming.
 =======
 # Getting Started with Create React App
